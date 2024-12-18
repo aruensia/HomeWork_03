@@ -117,7 +117,7 @@ namespace HomeWork_03
             Console.WriteLine($"입력한 값의 총 합은 {sumInt} 입니다.");
             Console.WriteLine($"입력한 값의 총 합은 {sumInt} 입니다.");
             Console.WriteLine($"입력한 값의 총 합은 {sumInt} 입니다.");
-
+            Console.WriteLine($"입력한 값의 총 합은 {sumInt} 입니다.");
         }
 
         static int SumNumber(int inputNumber)
