@@ -106,15 +106,9 @@ namespace HomeWork_03
         #region 심화과제 2
         static void Main(string[] args)
         {
-            int inputNumber = 0;
-            int sumInt = 0;
 
-            //숫자를 입력받음
-            inputNumber = int.Parse(Console.ReadLine());
-            SumNumber(inputNumber);
-            sumInt = SumNumber(inputNumber);
 
-            Console.WriteLine($"입력한 값의 총 합은 {sumInt} 입니다.");
+            Console.WriteLine("그냥값을 날려버림");
         }
 
         static int SumNumber(int inputNumber)
