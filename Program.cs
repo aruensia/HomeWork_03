@@ -109,6 +109,7 @@ namespace HomeWork_03
 
 
             Console.WriteLine("그냥값을 날려버림");
+            Console.WriteLine("추가 작업을 함");
         }
 
         static int SumNumber(int inputNumber)
