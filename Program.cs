@@ -108,8 +108,13 @@ namespace HomeWork_03
         {
 
 
+
             Console.WriteLine("그냥값을 날려버림");
             Console.WriteLine("추가 작업을 함");
+            Console.WriteLine("기능개발중");
+            Console.WriteLine("뭔가 아주 많이 작업을 햇음");
+            Console.WriteLine("아주 많은 시간을 들여서 작업을 더 함.");
+
         }
 
         static int SumNumber(int inputNumber)
@@ -169,7 +174,7 @@ namespace HomeWork_03
         //}
 
         #endregion
-
+     
 
 
 
